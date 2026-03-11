@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-spotify-hemu",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ebdf4043-731b-49d8-b3f1-c7a32be53729",
+		"tenantId": "2ddd5248-1f3c-4924-9abb-0d2f26428ac3"
+	}
+}
