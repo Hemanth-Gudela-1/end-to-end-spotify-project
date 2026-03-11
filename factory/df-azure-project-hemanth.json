@@ -1,0 +1,9 @@
+{
+	"name": "df-azure-project-hemanth",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6895ce61-32f1-4296-867d-f9e6d02b1d00",
+		"tenantId": "2ddd5248-1f3c-4924-9abb-0d2f26428ac3"
+	}
+}
